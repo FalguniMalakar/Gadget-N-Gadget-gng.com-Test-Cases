@@ -39,3 +39,4 @@ A test report is a document that summarizes the testing activities, results, and
 
 **Test Metrics:**
 Test metrics are numerical measures used to evaluate the quality, progress, and efficiency of testing processes, providing insights into coverage, defects, execution, resources, and risks for informed decision-making. In Test metrics dashboards or reports summarizing key testing data (e.g., pass/fail rates, execution time).
+![5](https://github.com/FalguniMalakar/Gadget-N-Gadget-gng.com-Test-Cases/assets/153453822/9239a8b3-1f8b-4d81-877b-5d1c33537080)
