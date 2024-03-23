@@ -25,6 +25,7 @@ Test case is a detailed specification of inputs, execution conditions, testing p
 
 **Mind Map:**
 A mind map is a visual representation of ideas, concepts, or processes related to software testing, often used for brainstorming, organizing, and structuring testing strategies, test scenarios, and test cases.
+![2](https://github.com/FalguniMalakar/Gadget-N-Gadget-gng.com-Test-Cases/assets/153453822/a59ceb18-a27e-4c1c-b203-5f785aa63b44)
 
 **Test Plan:**
 A test plan is a comprehensive document that outlines the scope, objectives, resources, schedule, and approach to be used for testing a software application. It includes details such as test strategy, test scenarios, test cases, entry and exit criteria, roles and responsibilities, and risk management strategies.
