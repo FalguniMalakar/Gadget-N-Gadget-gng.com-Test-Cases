@@ -21,7 +21,7 @@ Developer Coments,
 
 **Test Case:**
 Test case is a detailed specification of inputs, execution conditions, testing procedures, and expected results for a particular test scenario, used to verify the functionality or performance of a software application.
-
+![Capture](https://github.com/FalguniMalakar/Gadget-N-Gadget-gng.com-Test-Cases/assets/153453822/25505da8-135b-4bc5-91db-eb915108e757)
 
 **Mind Map:**
 A mind map is a visual representation of ideas, concepts, or processes related to software testing, often used for brainstorming, organizing, and structuring testing strategies, test scenarios, and test cases.
