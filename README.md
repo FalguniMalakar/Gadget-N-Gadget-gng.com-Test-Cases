@@ -35,6 +35,7 @@ A bug report is a document that details information about a defect or issue foun
 
 **Test Reports:**
 A test report is a document that summarizes the testing activities, results, and findings of a particular testing effort. It provides valuable insights into the status of the software under test, the quality of the product, and any issues encountered during testing.Test reports summarizing the overall test results will be generated.
+![4](https://github.com/FalguniMalakar/Gadget-N-Gadget-gng.com-Test-Cases/assets/153453822/7388383c-2d3a-4b42-a04a-802113f33d1a)
 
 **Test Metrics:**
 Test metrics are numerical measures used to evaluate the quality, progress, and efficiency of testing processes, providing insights into coverage, defects, execution, resources, and risks for informed decision-making. In Test metrics dashboards or reports summarizing key testing data (e.g., pass/fail rates, execution time).
