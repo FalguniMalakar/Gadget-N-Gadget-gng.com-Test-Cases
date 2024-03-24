@@ -32,6 +32,7 @@ A test plan is a comprehensive document that outlines the scope, objectives, res
 
 **Bug Reports:**
 A bug report is a document that details information about a defect or issue found during testing. It typically includes information such as the description of the bug, steps to reproduce it, severity level, screenshots or videos if applicable, environment details, and any other relevant information to help developers identify and fix the issue.
+
 ![Capture](https://github.com/FalguniMalakar/Gadget-N-Gadget-gng.com-Test-Cases/assets/153453822/2b043b37-f2d4-4310-a6a8-8d0c109366a5)
 
 **Test Reports:**
